@@ -66,3 +66,7 @@ RoutineHappiness/Logs/
 RoutineHappiness/Temp/
 
 RoutineHappiness/UserSettings/
+
+RoutineHappiness/obj/
+
+RoutineHappiness/.idea/
